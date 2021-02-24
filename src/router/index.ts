@@ -13,7 +13,7 @@ const routes: Array<RouteRecordRaw> = [
   // },
   {
     path: '/geolocation',
-    component: () => import ('../views/Gelocation.vue')
+    component: () => import ('../views/Geolocation.vue')
   },
   {
     path: '/device_info',
